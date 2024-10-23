@@ -1,6 +1,6 @@
 # config/config.py
 
-API_KEY = '9fcca5b5a00bf7c15b5d76e4a138efc4'  # Replace with your OpenWeatherMap API key
+API_KEY = ''  # Replace with your OpenWeatherMap API key
 
 # List of Indian cities to monitor
 CITIES = ['Delhi', 'Mumbai', 'Chennai', 'Bangalore', 'Kolkata', 'Hyderabad']
