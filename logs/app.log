@@ -1,0 +1,123 @@
+2024-10-23 18:08:07,988 - INFO - City: Delhi, Main: Haze, Temp: 29.05°C, Feels Like: 29.49°C, Timestamp: 1729687039
+2024-10-23 18:08:08,306 - INFO - City: Mumbai, Main: Haze, Temp: 31.99°C, Feels Like: 37.67°C, Timestamp: 1729686495
+2024-10-23 18:08:08,632 - INFO - City: Chennai, Main: Mist, Temp: 29.96°C, Feels Like: 36.96°C, Timestamp: 1729686831
+2024-10-23 18:08:09,002 - INFO - City: Bangalore, Main: Clouds, Temp: 21.89°C, Feels Like: 22.41°C, Timestamp: 1729686839
+2024-10-23 18:08:09,407 - INFO - City: Kolkata, Main: Haze, Temp: 25.97°C, Feels Like: 25.97°C, Timestamp: 1729687089
+2024-10-23 18:08:09,765 - INFO - City: Hyderabad, Main: Clouds, Temp: 24.11°C, Feels Like: 24.33°C, Timestamp: 1729686828
+2024-10-23 18:20:26,958 - INFO - City: Delhi, Main: Haze, Temp: 29.05°C, Feels Like: 29.49°C, Timestamp: 1729687568
+2024-10-23 18:20:27,316 - INFO - City: Mumbai, Main: Haze, Temp: 31.99°C, Feels Like: 37.67°C, Timestamp: 1729687193
+2024-10-23 18:20:27,651 - INFO - City: Chennai, Main: Mist, Temp: 30.08°C, Feels Like: 37.08°C, Timestamp: 1729687558
+2024-10-23 18:20:28,010 - INFO - City: Bangalore, Main: Clouds, Temp: 21.89°C, Feels Like: 22.41°C, Timestamp: 1729687511
+2024-10-23 18:20:28,338 - INFO - City: Kolkata, Main: Haze, Temp: 25.97°C, Feels Like: 25.97°C, Timestamp: 1729687603
+2024-10-23 18:20:28,657 - INFO - City: Hyderabad, Main: Clouds, Temp: 24.11°C, Feels Like: 24.33°C, Timestamp: 1729687648
+2024-10-23 18:31:07,977 - INFO - City: Delhi, Main: Haze, Temp: 29.05°C, Feels Like: 29.49°C, Timestamp: 1729687919
+2024-10-23 18:31:08,338 - INFO - City: Mumbai, Main: Haze, Temp: 31.99°C, Feels Like: 37.67°C, Timestamp: 1729687762
+2024-10-23 18:31:08,678 - INFO - City: Chennai, Main: Mist, Temp: 29.96°C, Feels Like: 36.96°C, Timestamp: 1729688341
+2024-10-23 18:31:09,001 - INFO - City: Bangalore, Main: Clouds, Temp: 21.89°C, Feels Like: 22.41°C, Timestamp: 1729688320
+2024-10-23 18:31:09,356 - INFO - City: Kolkata, Main: Haze, Temp: 25.97°C, Feels Like: 25.97°C, Timestamp: 1729688469
+2024-10-23 18:31:09,702 - INFO - City: Hyderabad, Main: Clouds, Temp: 24.11°C, Feels Like: 24.33°C, Timestamp: 1729688213
+2024-10-23 18:42:41,375 - INFO - City: Delhi, Main: Haze, Temp: 29.05°C, Feels Like: 29.49°C, Timestamp: 1729688951
+2024-10-23 18:42:41,718 - INFO - City: Mumbai, Main: Haze, Temp: 31.99°C, Feels Like: 37.67°C, Timestamp: 1729688573
+2024-10-23 18:42:42,068 - INFO - City: Chennai, Main: Mist, Temp: 29.96°C, Feels Like: 36.96°C, Timestamp: 1729689001
+2024-10-23 18:42:42,410 - INFO - City: Bangalore, Main: Clouds, Temp: 21.89°C, Feels Like: 22.43°C, Timestamp: 1729688964
+2024-10-23 18:42:42,759 - INFO - City: Kolkata, Main: Haze, Temp: 25.97°C, Feels Like: 25.97°C, Timestamp: 1729688819
+2024-10-23 18:42:43,121 - INFO - City: Hyderabad, Main: Clouds, Temp: 24.11°C, Feels Like: 24.33°C, Timestamp: 1729688842
+2024-10-23 18:54:13,120 - INFO - City: Delhi, Main: Haze, Temp: 28.05°C, Humidity: 51%, Wind Speed: 1.54 m/s, Feels Like: 28.60°C, Timestamp: 1729689263
+2024-10-23 18:54:13,458 - INFO - City: Mumbai, Main: Haze, Temp: 30.99°C, Humidity: 66%, Wind Speed: 3.09 m/s, Feels Like: 36.41°C, Timestamp: 1729689566
+2024-10-23 18:54:13,781 - INFO - City: Chennai, Main: Mist, Temp: 30.01°C, Humidity: 79%, Wind Speed: 4.02 m/s, Feels Like: 37.01°C, Timestamp: 1729689573
+2024-10-23 18:54:14,138 - INFO - City: Bangalore, Main: Clouds, Temp: 22.17°C, Humidity: 88%, Wind Speed: 2.41 m/s, Feels Like: 22.74°C, Timestamp: 1729689595
+2024-10-23 18:54:14,473 - INFO - City: Kolkata, Main: Haze, Temp: 25.97°C, Humidity: 89%, Wind Speed: 3.09 m/s, Feels Like: 25.97°C, Timestamp: 1729689158
+2024-10-23 18:54:14,806 - INFO - City: Hyderabad, Main: Clouds, Temp: 24.11°C, Humidity: 67%, Wind Speed: 2.79 m/s, Feels Like: 24.33°C, Timestamp: 1729689576
+2024-10-23 18:59:59,453 - INFO - City: Delhi, Main: Haze, Temp: 28.05°C, Humidity: 51%, Wind Speed: 1.54 m/s, Feels Like: 28.60°C, Timestamp: 1729689694
+2024-10-23 18:59:59,811 - INFO - City: Mumbai, Main: Haze, Temp: 30.99°C, Humidity: 66%, Wind Speed: 3.09 m/s, Feels Like: 36.41°C, Timestamp: 1729689566
+2024-10-23 19:00:00,280 - INFO - City: Chennai, Main: Mist, Temp: 29.96°C, Humidity: 80%, Wind Speed: 4.02 m/s, Feels Like: 36.96°C, Timestamp: 1729690070
+2024-10-23 19:00:00,619 - INFO - City: Bangalore, Main: Clouds, Temp: 22.17°C, Humidity: 88%, Wind Speed: 2.41 m/s, Feels Like: 22.74°C, Timestamp: 1729689595
+2024-10-23 19:00:01,213 - INFO - City: Kolkata, Main: Haze, Temp: 25.97°C, Humidity: 89%, Wind Speed: 3.09 m/s, Feels Like: 25.97°C, Timestamp: 1729689951
+2024-10-23 19:00:01,614 - INFO - City: Hyderabad, Main: Clouds, Temp: 24.11°C, Humidity: 67%, Wind Speed: 2.79 m/s, Feels Like: 24.33°C, Timestamp: 1729689576
+2024-10-23 19:27:30,415 - ERROR - Failed to get data for InvalidCity. Status code: 404
+2024-10-23 19:27:30,417 - INFO - City: London, Main: Clear, Temp: 26.85°C, Humidity: 50%, Wind Speed: 5 m/s, Feels Like: 26.00°C, Timestamp: 1609459200
+2024-10-23 19:27:30,417 - ERROR - An error occurred: 'London'
+2024-10-23 19:31:24,809 - ERROR - Failed to get data for InvalidCity. Status code: 404
+2024-10-23 19:31:24,810 - INFO - City: London, Main: Clear, Temp: 26.85°C, Humidity: 50%, Wind Speed: 5 m/s, Feels Like: 26.00°C, Timestamp: 1609459200
+2024-10-23 19:31:24,810 - ERROR - An error occurred: 'London'
+2024-10-23 19:35:04,846 - ERROR - Failed to get data for InvalidCity. Status code: 404
+2024-10-23 19:35:04,847 - INFO - City: London, Main: Clear, Temp: 26.85°C, Humidity: 50%, Wind Speed: 5 m/s, Feels Like: 26.00°C, Timestamp: 1609459200
+2024-10-23 19:35:04,847 - ERROR - An error occurred: 'London'
+2024-10-23 19:37:37,101 - ERROR - Failed to get data for InvalidCity. Status code: 404
+2024-10-23 19:37:37,102 - INFO - City: London, Main: Clear, Temp: 26.85°C, Humidity: 50%, Wind Speed: 5 m/s, Feels Like: 26.00°C, Timestamp: 1609459200
+2024-10-23 19:37:37,102 - ERROR - An error occurred: 'London'
+2024-10-23 19:41:12,288 - ERROR - Failed to get data for InvalidCity. Status code: 404
+2024-10-23 19:41:12,289 - INFO - City: London, Main: Clear, Temp: 26.85°C, Humidity: 50%, Wind Speed: 5 m/s, Feels Like: 26.00°C, Timestamp: 1609459200
+2024-10-23 19:41:12,290 - ERROR - An error occurred: 'London'
+2024-10-23 19:44:43,956 - INFO - City: Delhi, Main: Haze, Temp: 26.05°C, Humidity: 57%, Wind Speed: 2.06 m/s, Feels Like: 26.05°C, Timestamp: 1729692402
+2024-10-23 19:44:44,290 - INFO - City: Mumbai, Main: Haze, Temp: 30.99°C, Humidity: 70%, Wind Speed: 2.57 m/s, Feels Like: 37.57°C, Timestamp: 1729692368
+2024-10-23 19:44:44,606 - INFO - City: Chennai, Main: Mist, Temp: 29.96°C, Humidity: 79%, Wind Speed: 3.58 m/s, Feels Like: 36.96°C, Timestamp: 1729692669
+2024-10-23 19:44:44,936 - INFO - City: Bangalore, Main: Clouds, Temp: 22.17°C, Humidity: 88%, Wind Speed: 2.66 m/s, Feels Like: 22.74°C, Timestamp: 1729692694
+2024-10-23 19:44:45,269 - INFO - City: Kolkata, Main: Haze, Temp: 25.97°C, Humidity: 89%, Wind Speed: 3.6 m/s, Feels Like: 25.97°C, Timestamp: 1729692610
+2024-10-23 19:44:45,585 - INFO - City: Hyderabad, Main: Mist, Temp: 26.73°C, Humidity: 65%, Wind Speed: 2.57 m/s, Feels Like: 28.07°C, Timestamp: 1729692502
+2024-10-23 19:45:05,248 - ERROR - Failed to get data for InvalidCity. Status code: 404
+2024-10-23 19:45:05,249 - INFO - City: London, Main: Clear, Temp: 26.85°C, Humidity: 50%, Wind Speed: 5 m/s, Feels Like: 26.00°C, Timestamp: 1609459200
+2024-10-23 19:45:05,249 - ERROR - An error occurred: 'London'
+2024-10-23 19:48:40,097 - ERROR - Failed to get data for InvalidCity. Status code: 404
+2024-10-23 19:48:40,098 - INFO - City: London, Main: Clear, Temp: 26.85°C, Humidity: 50%, Wind Speed: 5 m/s, Feels Like: 26.00°C, Timestamp: 1609459200
+2024-10-23 19:48:40,098 - ERROR - An error occurred: 'London'
+2024-10-23 19:50:24,674 - ERROR - Failed to get data for InvalidCity. Status code: 404
+2024-10-23 19:50:24,675 - INFO - City: London, Main: Clear, Temp: 26.85°C, Humidity: 50%, Wind Speed: 5 m/s, Feels Like: 26.00°C, Timestamp: 1609459200
+2024-10-23 19:50:24,675 - ERROR - An error occurred: 'London'
+2024-10-23 19:51:02,421 - ERROR - Failed to get data for InvalidCity. Status code: 404
+2024-10-23 19:51:02,421 - INFO - City: London, Main: Clear, Temp: 26.85°C, Humidity: 50%, Wind Speed: 5 m/s, Feels Like: 26.00°C, Timestamp: 1609459200
+2024-10-23 19:51:02,422 - ERROR - An error occurred: 'London'
+2024-10-23 19:51:24,491 - ERROR - Failed to get data for InvalidCity. Status code: 404
+2024-10-23 19:51:24,492 - INFO - City: London, Main: Clear, Temp: 26.85°C, Humidity: 50%, Wind Speed: 5 m/s, Feels Like: 26.00°C, Timestamp: 1609459200
+2024-10-23 19:51:24,492 - ERROR - An error occurred: 'London'
+2024-10-23 19:51:39,437 - ERROR - Failed to get data for InvalidCity. Status code: 404
+2024-10-23 19:51:39,438 - INFO - City: London, Main: Clear, Temp: 26.85°C, Humidity: 50%, Wind Speed: 5 m/s, Feels Like: 26.00°C, Timestamp: 1609459200
+2024-10-23 19:51:39,438 - ERROR - An error occurred: 'London'
+2024-10-23 19:53:36,785 - ERROR - Failed to get data for InvalidCity. Status code: 404
+2024-10-23 19:53:36,785 - INFO - City: London, Main: Clear, Temp: 26.85°C, Humidity: 50%, Wind Speed: 5 m/s, Feels Like: 26.00°C, Timestamp: 1609459200
+2024-10-23 19:53:36,786 - ERROR - An error occurred: 'London'
+2024-10-23 19:53:48,643 - ERROR - Failed to get data for InvalidCity. Status code: 404
+2024-10-23 19:53:48,644 - INFO - City: London, Main: Clear, Temp: 26.85°C, Humidity: 50%, Wind Speed: 5 m/s, Feels Like: 26.00°C, Timestamp: 1609459200
+2024-10-23 19:53:48,644 - ERROR - An error occurred: 'London'
+2024-10-23 20:15:00,832 - INFO - City: Delhi, Main: Haze, Temp: 26.05°C, Humidity: 57%, Wind Speed: 2.06 m/s, Feels Like: 26.05°C, Timestamp: 1729694058
+2024-10-23 20:15:01,162 - INFO - City: Mumbai, Main: Haze, Temp: 30.99°C, Humidity: 70%, Wind Speed: 2.06 m/s, Feels Like: 37.57°C, Timestamp: 1729694125
+2024-10-23 20:15:01,502 - INFO - City: Chennai, Main: Mist, Temp: 29.96°C, Humidity: 79%, Wind Speed: 3.58 m/s, Feels Like: 36.96°C, Timestamp: 1729694159
+2024-10-23 20:15:01,842 - INFO - City: Bangalore, Main: Rain, Temp: 21.89°C, Humidity: 89%, Wind Speed: 2.86 m/s, Feels Like: 22.46°C, Timestamp: 1729694198
+2024-10-23 20:15:02,174 - INFO - City: Kolkata, Main: Haze, Temp: 25.97°C, Humidity: 89%, Wind Speed: 3.09 m/s, Feels Like: 25.97°C, Timestamp: 1729694202
+2024-10-23 20:15:02,519 - INFO - City: Hyderabad, Main: Haze, Temp: 26.23°C, Humidity: 57%, Wind Speed: 2.57 m/s, Feels Like: 26.23°C, Timestamp: 1729694147
+2024-10-23 20:16:03,357 - INFO - City: Delhi, Main: Haze, Temp: 26.05°C, Humidity: 57%, Wind Speed: 2.06 m/s, Feels Like: 26.05°C, Timestamp: 1729694058
+2024-10-23 20:16:03,682 - INFO - City: Mumbai, Main: Haze, Temp: 30.99°C, Humidity: 70%, Wind Speed: 2.06 m/s, Feels Like: 37.57°C, Timestamp: 1729694125
+2024-10-23 20:16:04,017 - INFO - City: Chennai, Main: Mist, Temp: 29.95°C, Humidity: 80%, Wind Speed: 3.58 m/s, Feels Like: 36.95°C, Timestamp: 1729694532
+2024-10-23 20:16:04,336 - INFO - City: Bangalore, Main: Rain, Temp: 21.89°C, Humidity: 89%, Wind Speed: 2.86 m/s, Feels Like: 22.46°C, Timestamp: 1729694198
+2024-10-23 20:16:04,702 - INFO - City: Kolkata, Main: Haze, Temp: 25.97°C, Humidity: 89%, Wind Speed: 3.09 m/s, Feels Like: 25.97°C, Timestamp: 1729694202
+2024-10-23 20:16:05,096 - INFO - City: Hyderabad, Main: Haze, Temp: 26.23°C, Humidity: 57%, Wind Speed: 2.57 m/s, Feels Like: 26.23°C, Timestamp: 1729694630
+2024-10-23 20:23:00,159 - ERROR - Failed to get data for Delhi. Status code: 401
+2024-10-23 20:23:00,476 - ERROR - Failed to get data for Mumbai. Status code: 401
+2024-10-23 20:23:00,793 - ERROR - Failed to get data for Chennai. Status code: 401
+2024-10-23 20:23:01,122 - ERROR - Failed to get data for Bangalore. Status code: 401
+2024-10-23 20:23:01,435 - ERROR - Failed to get data for Kolkata. Status code: 401
+2024-10-23 20:23:01,781 - ERROR - Failed to get data for Hyderabad. Status code: 401
+2024-10-23 20:24:02,579 - ERROR - Failed to get data for Delhi. Status code: 401
+2024-10-23 20:24:02,912 - ERROR - Failed to get data for Mumbai. Status code: 401
+2024-10-23 20:24:03,223 - ERROR - Failed to get data for Chennai. Status code: 401
+2024-10-23 20:24:03,556 - ERROR - Failed to get data for Bangalore. Status code: 401
+2024-10-23 20:24:03,888 - ERROR - Failed to get data for Kolkata. Status code: 401
+2024-10-23 20:24:04,218 - ERROR - Failed to get data for Hyderabad. Status code: 401
+2024-10-23 20:25:05,150 - ERROR - Failed to get data for Delhi. Status code: 401
+2024-10-23 20:25:05,481 - ERROR - Failed to get data for Mumbai. Status code: 401
+2024-10-23 20:25:05,804 - ERROR - Failed to get data for Chennai. Status code: 401
+2024-10-23 20:25:06,139 - ERROR - Failed to get data for Bangalore. Status code: 401
+2024-10-23 20:25:06,467 - ERROR - Failed to get data for Kolkata. Status code: 401
+2024-10-23 20:25:06,818 - ERROR - Failed to get data for Hyderabad. Status code: 401
+2024-10-23 20:26:07,668 - ERROR - Failed to get data for Delhi. Status code: 401
+2024-10-23 20:26:08,011 - ERROR - Failed to get data for Mumbai. Status code: 401
+2024-10-23 20:26:08,350 - ERROR - Failed to get data for Chennai. Status code: 401
+2024-10-23 20:26:08,703 - ERROR - Failed to get data for Bangalore. Status code: 401
+2024-10-23 20:26:09,036 - ERROR - Failed to get data for Kolkata. Status code: 401
+2024-10-23 20:26:09,379 - ERROR - Failed to get data for Hyderabad. Status code: 401
+2024-10-23 20:29:13,116 - INFO - City: Delhi, Main: Haze, Temp: 26.05°C, Humidity: 61%, Wind Speed: 2.06 m/s, Feels Like: 26.05°C, Timestamp: 1729695033
+2024-10-23 20:29:13,462 - INFO - City: Mumbai, Main: Haze, Temp: 30.99°C, Humidity: 70%, Wind Speed: 2.06 m/s, Feels Like: 37.57°C, Timestamp: 1729695002
+2024-10-23 20:29:13,797 - INFO - City: Chennai, Main: Mist, Temp: 29.72°C, Humidity: 81%, Wind Speed: 3.58 m/s, Feels Like: 36.72°C, Timestamp: 1729695501
+2024-10-23 20:29:14,132 - INFO - City: Bangalore, Main: Rain, Temp: 22.17°C, Humidity: 88%, Wind Speed: 2.86 m/s, Feels Like: 22.74°C, Timestamp: 1729695525
+2024-10-23 20:29:14,469 - INFO - City: Kolkata, Main: Haze, Temp: 25.97°C, Humidity: 89%, Wind Speed: 3.09 m/s, Feels Like: 25.97°C, Timestamp: 1729695254
+2024-10-23 20:29:14,859 - INFO - City: Hyderabad, Main: Haze, Temp: 26.23°C, Humidity: 57%, Wind Speed: 2.57 m/s, Feels Like: 26.23°C, Timestamp: 1729695554
