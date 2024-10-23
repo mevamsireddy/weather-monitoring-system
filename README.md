@@ -33,7 +33,7 @@ weather_monitoring/
 ## Setup
 1. Clone the repository:
 ```bash
-   git clone https://github.com/yourusername/weather_monitoring.git
+   git clone https://github.com/mevamsireddy/weather-monitoring-system.git
    cd weather_monitoring
    ```
 
